@@ -1,4 +1,4 @@
-##EXERCISES IN C++
+#EXERCISES IN C++
 
 **Installation:**
 
@@ -13,9 +13,8 @@ In this repository you will find solved c ++ exercises. Hope my solutions can he
 
 You can contact through my social networks or by email:
 
-personal mail 1:  hvb.cradle@gmail.com
-personal mail 2:  harrylexvb@gmail.com
-institutional mail:  harold.villanueva@ucsp.edu.pe
-Instagram:  [Click here](https://www.instagram.com/harrylexvb/?hl=es-la "Instagram")
-
+<p>Personal>personal mail 1:  hvb.cradle@gmail.com</p>
+<p>Personal mail 2:  harrylexvb@gmail.com</p>
+<p>Institutional mail:  harold.villanueva@ucsp.edu.pe</p>
+<p>Instagram:  [Click here](https://www.instagram.com/harrylexvb/?hl=es-la "Instagram")</p>
 
