@@ -1,6 +1,6 @@
 ## EXERCISES IN C++
 
-**Installation:**Cancel changes
+**Installation:**
 
 - This project has been run using c ++ 23 version in the Clion IDE. [Clion here](https://www.jetbrains.com/clion/ "Clion here")
 - You must have a text editor or IDE installed.
