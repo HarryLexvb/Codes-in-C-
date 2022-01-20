@@ -1,6 +1,6 @@
 ## EXERCISE COMBINING ARRAYS
 
-#### Description: 
+#### Description: [Exercise link](https://omegaup.com/arena/problem/Combinando-arreglos/ "Exercise link")
 
 Given two arrays A and B, both of size en, your task is to obtain a series of arrays of size 2n 
 using the elements of the aforementioned arrays. Taking into account that the elements of A are 
