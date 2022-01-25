@@ -1,6 +1,6 @@
 ## EXERCISE WATERMELON
 
-#### Description: #### Description:  [Watermelon exercise](https://omegaup.com/arena/problem/Watermel/#problems "Watermelon exercise")
+#### Description: [Watermelon exercise](https://omegaup.com/arena/problem/Watermel/#problems "Watermelon exercise")
 
 One hot summer day, Peter and his friend Billy decided to buy a watermelon. They chose the largest and most mature (in their opinion). The watermelon was then weighed and the balance showed $$w$$ kilograms. They rushed home, dying of thirst, and decided to split the watermelon, however, they faced a difficult problem.
 
