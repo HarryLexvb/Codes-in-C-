@@ -16,5 +16,5 @@ You can contact through my social networks or by email:
 <p>Personal mail 1:  hvb.cradle@gmail.com</p>
 <p>Personal mail 2:  harrylexvb@gmail.com</p>
 <p>Institutional mail:  harold.villanueva@ucsp.edu.pe</p>
-Instagram: [HarryLexvb](https://www.instagram.com/harrylexvb/?hl=es-la%20%22Instagram%22 "HarryLexvb") 
+Instagram: [Clion here](https://www.jetbrains.com/clion/ "Clion here")
 
