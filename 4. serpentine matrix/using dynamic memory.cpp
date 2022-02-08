@@ -1,3 +1,9 @@
+/*
+ * author: Harold ALejandro Villanueva Borda
+ * Computer Science  2021
+ * @harrylexvb
+ * */
+
 #include <iostream>
 
 void print(int** matrix, int rows, int columns) {
